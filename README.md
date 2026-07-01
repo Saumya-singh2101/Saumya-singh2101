@@ -19,7 +19,6 @@ AI • Full Stack • Finance • EXTC @ SPIT
 ## 🔭 Currently Learning / Building
 
 * 🎓 **Electronics & Telecommunication Undergraduate** at **SPIT**
-* 💼 **Actively looking for Summer Internships & AI/ML / Full-Stack Roles**
 * 🤖 Passionate about **AI, LLMs, RAG**, and **Financial Technology**
 * 💻 **Full Stack Developer** building with React, FastAPI & Python
 * 🌱 Currently deep-diving into **AI Agents, Cloud Architecture**, and **System Design**
