@@ -98,7 +98,7 @@ Machine learning API for real-time financial fraud detection using FastAPI, Post
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: **[(Add your LinkedIn URL here(https://www.linkedin.com/in/saumya-singh-116764356/))**
+- 💼 LinkedIn: **https://www.linkedin.com/in/saumya-singh-116764356/**
 - 📧 Email: **saumya.singh24@spit.ac.in**
 
 ---
