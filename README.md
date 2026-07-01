@@ -1,132 +1,54 @@
 <h1 align="center">Hi 👋, I'm Saumya Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;AI+%26+LLM+Engineer;Hackathon+Winner;Building+Products+That+Matter" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineer;Hackathon+Winner;Building+AI+Products" alt="Typing SVG" />
 </p>
 
 <h3 align="center">
-EXTC Undergraduate @ SPIT • AI • Full Stack • Financial Tech
+AI • Full Stack • Finance • EXTC @ SPIT
 </h3>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 Electronics & Telecommunication Undergraduate at **Sardar Patel Institute of Technology (SPIT)**
-
-💻 Passionate about building **AI-powered products**, scalable web applications and intelligent automation.
-
-🤖 Currently exploring
-
-- Generative AI
-- LLM Applications
-- RAG Systems
-- AI Agents
-- Financial AI
-
-🏆 Multiple National Hackathon Winner
+- 🎓 Electronics & Telecommunication Undergraduate at **SPIT**
+- 🤖 Passionate about AI, LLMs, RAG and Financial Technology
+- 💻 Full Stack Developer using React, FastAPI & Python
+- 🌱 Currently learning AI Agents, Cloud & System Design
+- 🏆 Multiple National Hackathon Winner
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql,supabase,sqlite" />
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-**LLMs • LangChain • Groq • ChromaDB • Whisper • MediaPipe • Scikit-Learn**
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,html,css,tailwind,nodejs,fastapi,postgres,supabase,git,github,docker,vscode,postman" />
 </p>
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
 ## 📈 AlphaForge
+AI-powered equity research platform with live market data, competitor comparison, financial scoring and AI-generated BUY / SELL / HOLD insights.
 
-> AI-powered Equity Research Platform
-
-✨ Live market data
-
-✨ Financial Health Score
-
-✨ AI BUY / SELL / HOLD Recommendations
-
-✨ Competitor Comparison
-
-✨ Interactive Charts
-
-✨ PDF Reports
-
-**Tech**
-
-React • FastAPI • Python • yFinance • Recharts
+**Tech:** React • FastAPI • Python • yFinance • Recharts
 
 ---
 
 ## 🤖 Pathway AI
-
-Offline-first AI Learning Platform
-
-- LLaMA
-- Whisper Speech Recognition
-- MediaPipe Gesture Recognition
-- Supabase Authentication
-- FastAPI Backend
+Offline-first multimodal AI learning platform integrating LLaMA, Whisper, MediaPipe and Supabase.
 
 ---
 
 ## 📦 Stock OS
-
-Cloud Native AI Inventory Management System
-
-- AI Demand Forecasting
-- Natural Language Queries
-- Kafka
-- Supabase Realtime
-- Multi Tenant Architecture
+Cloud-native inventory management system with AI demand forecasting, Kafka event streaming and Supabase Realtime.
 
 ---
 
 ## 🛡 Fraud Detector
-
-Real-time Financial Fraud Detection API
-
-- FastAPI
-- PostgreSQL
-- Scikit-Learn
-- 94% Precision
-- Credit Risk Prediction
+Machine learning API for real-time financial fraud detection using FastAPI, PostgreSQL and Scikit-learn.
 
 ---
 
@@ -134,13 +56,13 @@ Real-time Financial Fraud Detection API
 
 🥇 Overall Winner — Encode Hackathon (NMIMS)
 
-🥇 Overall Winner — eVIHack 1.0 (Solo)
+🥇 Overall Winner — eVIHack 1.0
 
-🥉 2nd Runner Up — There's NO PLANet-B Hackathon (TISS)
+🥉 2nd Runner-Up — There's NO PLANet-B Hackathon (TISS)
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -151,9 +73,7 @@ Real-time Financial Fraud Detection API
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Saumya-singh2101&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -161,31 +81,28 @@ Real-time Financial Fraud Detection API
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saumya-singh2101&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+![](https://raw.githubusercontent.com/Saumya-singh2101/Saumya-singh2101/output/github-contribution-grid-snake.svg)
 
 </p>
 
 ---
 
-# 🌐 Connect
+## 📫 Connect with Me
 
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:saumya.singh24@spit.ac.in">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
+- 💼 LinkedIn: **(Add your LinkedIn URL here)**
+- 📧 Email: **saumya.singh24@spit.ac.in**
 
 ---
 
 <p align="center">
-
-⭐ If you like my work, consider giving a star to my repositories!
-
+⭐ Thanks for visiting my profile!
 </p>
